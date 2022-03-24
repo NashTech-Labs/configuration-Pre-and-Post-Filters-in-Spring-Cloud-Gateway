@@ -1,0 +1,5 @@
+# Registered spring application and server port
+
+server:
+  port: 8080
+  
