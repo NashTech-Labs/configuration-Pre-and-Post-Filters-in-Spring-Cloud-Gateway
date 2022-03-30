@@ -1,0 +1,7 @@
+# Registered spring application and server port
+
+spring:
+  application:
+    name: student-service
+server:
+  port: 8081

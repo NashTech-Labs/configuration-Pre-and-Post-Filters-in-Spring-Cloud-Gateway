@@ -1,0 +1,6 @@
+# Registered spring application and server port
+spring:
+  application:
+    name: subject-service
+server:
+  port: 8082
